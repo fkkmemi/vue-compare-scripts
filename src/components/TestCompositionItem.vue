@@ -1,7 +1,7 @@
 <template>
-  <div>
-    item
-  </div>
+  <h5>
+    TestCompositionItem
+  </h5>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'

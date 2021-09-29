@@ -1,7 +1,7 @@
 <script setup lang="ts">
 </script>
 <template>
-  <div>
-    item
-  </div>
+  <h5>
+    TestSetupItem
+  </h5>
 </template>
